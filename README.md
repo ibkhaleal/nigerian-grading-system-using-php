@@ -24,7 +24,6 @@ This PHP library provides a straightforward way to determine grades and remarks 
    ```php
    $score = 75; // Your numeric score
    $grade = determineGrade($score);
-``
 
 
 ## Grade Scale
