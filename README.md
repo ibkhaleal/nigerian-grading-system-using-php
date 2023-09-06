@@ -24,10 +24,10 @@ This PHP library provides a straightforward way to determine grades and remarks 
    ```php
    $score = 75; // Your numeric score
    $grade = determineGrade($score);
-```
+``
 
 
-#### Grade Scale
+## Grade Scale
 - A (Excellent): 70 - 100
 - B (Very Good): 60 - 69
 - C (Good): 50 - 59
